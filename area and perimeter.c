@@ -4,6 +4,7 @@ int main() {
     int length, breadth;
     int area, perimeter;
 
+    printf("enter the length and breadth: ");
     scanf("%d %d", &length, &breadth);
 
     area = length * breadth;
