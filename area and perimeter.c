@@ -9,7 +9,7 @@ int main() {
     area = length * breadth;
     perimeter = 2 * (length + breadth);
 
-    printf("Area=%d, Perimeter=%d\n", area, perimeter);
+    printf("area=%d, perimeter=%d\n", area, perimeter);
 
     return 0;
 }
